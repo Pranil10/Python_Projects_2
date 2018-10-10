@@ -1,0 +1,3 @@
+india,australia,africa,america,russia,britain,iran,iraq,canada,cuba,combodia,libya,israel,germany,uganda,srilanka,pakistan,bangladesh,nepal,bhutan,japan,china,brazil,argentina
+elephant,tiger,lion,zebra,fox,wolf,rabbit,deer,blackbuck,rhino,pig,dog,cat,jaguar,monkey,donkey,turtle,frog,gorilla,orangutan,cheetah,kangaroo,cow,bull,bufallo,horse,giraffe
+mumbai,pune,nashik,nagpur,chennai,panji,kolkata,bangalore,hyderabad,jaipur,delhi,lucknow,kanpur,indore,bhopal,agra,ahmedabad,surat,kochi,varanasi,coimbatore,madurai,guwahati
